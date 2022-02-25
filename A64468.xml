@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thamasis's advice to the painter, from her frigid zone, or, Wonders upon the water</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64468</idno>
+            <idno type="STC">Wing T833</idno>
+            <idno type="STC">ESTC R9697</idno>
+            <idno type="EEBO-CITATION">13282697</idno>
+            <idno type="OCLC">ocm 13282697</idno>
+            <idno type="VID">98776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98776)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 440:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thamasis's advice to the painter, from her frigid zone, or, Wonders upon the water</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thames River (England) --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:98776:1"/>
+            <!-- PDF PAGE 22 -->
+            <head>Thamaſis's Advice TO THE PAINTER, FROM HER FRIGID ZONE: OR <hi>WONDERS upon the WATER.</hi>
+            </head>
+            <lg>
+               <l>FAm'd <hi>Thamaſis,</hi> with ſhiv'ring <hi>Winter Dreſſes,</hi>
+               </l>
+               <l>With <hi>Iſicles,</hi> and other <hi>borrow'd Treſſes,</hi>
+               </l>
+               <l>And on her <hi>Head</hi> a <hi>Periwig</hi> of <hi>Snow,</hi>
+               </l>
+               <l>And <hi>freezed Mantle</hi> fring'd with <hi>Ice</hi> below,</l>
+               <l>Out of her <hi>watry Bed,</hi> amaz'd appears,</l>
+               <l>And thus the <hi>Current</hi> of her <hi>Language</hi> ſtears.</l>
+            </lg>
+            <lg>
+               <l>Spread a <hi>large Canvas, Painter,</hi> to contain</l>
+               <l>The <hi>ſtrange ſurpriſing Sights,</hi> the <hi>numerous Train,</hi>
+               </l>
+               <l>That all about my <hi>Back</hi> do <hi>walk</hi> or <hi>ſit,</hi>
+               </l>
+               <l>Of <hi>all Degrees,</hi> ſome <hi>Sage,</hi> ſome wanting <hi>wit,</hi>
+               </l>
+               <l>For <hi>Crouds</hi> of <hi>People</hi> hither do <hi>retire,</hi>
+               </l>
+               <l>As to <hi>Moor-fields,</hi> after the <hi>dreadful Fire,</hi>
+               </l>
+               <l>Threatning the <hi>City</hi> to depopulate</l>
+               <l>As once before it was unfortunate.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>Then draw the <hi>King,</hi> who on his <hi>Leads</hi> doth ſtay,</l>
+                  <l>To ſee the <hi>Throng,</hi> as on a <hi>Lord Mayors day,</hi>
+                  </l>
+                  <l>And thus unto his <hi>Nobles</hi> pleas'd to ſay;</l>
+               </lg>
+               <l>With theſe <hi>Men</hi> on this <hi>Ice,</hi> I'de undertake,</l>
+               <l>To cauſe the <hi>Turk</hi> all <hi>Europe</hi> to forſake:</l>
+               <l>An Army of theſe <hi>Men,</hi> arm'd and compleat,</l>
+               <l>Would ſoon the <hi>Turk</hi> in <hi>Chriſtendom</hi> defeat.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>Then draw me <hi>Temple-Blanket-ſtreet,</hi> where all</l>
+                  <l>The <hi>Water-men</hi> do loudly cry and baul,</l>
+                  <l>Louder than <hi>Lawyers</hi> in <hi>Weſtern-hall.</hi>
+                  </l>
+               </lg>
+               <l>Inſtead of ſtanding at the <hi>ſtairs</hi> to <hi>ply,</hi>
+               </l>
+               <l>They ſay, <hi>What is't you lack, what is't you buy?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And whilſt the <hi>Rooks</hi> do tell an <hi>heavy Tale,</hi>
+               </l>
+               <l>And curſe the <hi>Froſt,</hi> they cry, <hi>Good Beer and Ale,</hi>
+               </l>
+               <l>
+                  <hi>Coffee or Mum or Wine, the heart to chear,</hi>
+               </l>
+               <l>
+                  <hi>Roast Beef, or Mutton boil'd, or Brandy clear.</hi>
+               </l>
+               <l>
+                  <pb facs="tcp:98776:2"/>
+                  <!-- PDF PAGE 23 -->
+There <hi>mighty Ice Cakes,</hi> and <hi>Plumb-Cakes</hi> are found:</l>
+               <l>There all variety of things abound,</l>
+               <l>Only <hi>green Peaſe</hi> and <hi>Cherries,</hi> they are rare,</l>
+               <l>As <hi>Guin<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ys</hi> in a <hi>Poets Pocket</hi> are.</l>
+            </lg>
+            <lg>
+               <l>Here you may buy a <hi>Diamond Ring</hi> for nought,</l>
+               <l>Such as from <hi>India</hi> ne'er was brought;</l>
+               <l>(The <hi>Cuts</hi> were <hi>Diamond,</hi> the <hi>Subſtance, Ice,</hi>
+               </l>
+               <l>Which in <hi>Mens Pockets</hi> vaniſh'd in a trice:</l>
+               <l>But for his <hi>Cheat,</hi> the <hi>Man</hi> will pay full dear,</l>
+               <l>Condemned by my <hi>Lord</hi> to <hi>Whipping Chear.</hi>)</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Paint<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi> let us to the <hi>Print-houſe</hi> go,</l>
+               <l>Where <hi>Men</hi> the <hi>Art of Printing</hi> ſoon do know;</l>
+               <l>Where, for a <hi>Teaſter,</hi> you may have your <hi>Name</hi>
+               </l>
+               <l>Printed, hereaf<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er for to ſhow the ſame;</l>
+               <l>And ſure in <hi>former Ages</hi> ne'er was found,</l>
+               <l>A <hi>Preſs</hi> to <hi>print,</hi> where Men ſo oft were dround.</l>
+            </lg>
+            <lg>
+               <l>N<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xt, notice of the <hi>various motions</hi> take,</l>
+               <l>Some bold as <hi>Hector,</hi> ſome for fear do quake,</l>
+               <l>One ſlides, one ſlips, and one downright doth fall</l>
+               <l>Into an <hi>Hole,</hi> the <hi>Skuller</hi> then doth baul,</l>
+               <l>What will you rob my <hi>Cellar</hi> of its <hi>drink?</hi>
+               </l>
+               <l>W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en he, alas, <hi>poor man,</hi> no harm <hi>doth think:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There <hi>Chariots</hi> fly, there <hi>Coaches</hi> run on wheels,</l>
+               <l>And <hi>men</hi> (out-tipling <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſhes</hi>) reels,</l>
+               <l>And often up doth go the <hi>Womans</hi> heels,</l>
+               <l>And ſomething, to remember what ſhe ſaw, ſhe f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible: missing" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Water-men</hi> as buſie are as <hi>Bees,</hi>
+               </l>
+               <l>Or as ſome <hi>Welch men</hi> cramming <hi>toaſted Cheeſe.</hi>
+               </l>
+               <l>Inſtead of <hi>Waves</hi> that us'd to beat the ſhore,</l>
+               <l>There <hi>Bears</hi> and <hi>Bull,</hi> loudly now do roar.</l>
+               <l>There <hi>Boats</hi> do ſl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de, where <hi>Boats</hi> were wont to row;</l>
+               <l>Where <hi>Ships</hi> did ſail, the <hi>Water-men</hi> them tow.</l>
+               <l>All things do move upon this <hi>Element,</hi>
+               </l>
+               <l>As if on <hi>Terra fer<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a</hi> their feet went.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Hard times</hi> the good and righteous <hi>God</hi> hath ſent,</l>
+               <l>For our more hardned hearts, as puniſhment;</l>
+               <l>From <hi>Heav'n</hi> thi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Scourge</hi> is ſent us for our pride;</l>
+               <l>We're plagu'd with <hi>Ice,</hi> becauſe we do backſlide</l>
+               <l>The only way theſe things for to redreſs,</l>
+               <l>Is that each one his <hi>Sins</hi> to <hi>God</hi> confeſs;</l>
+               <l>L<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t every one ſweep clean and neat his door,</l>
+               <l>And let our hearts be ſoftned to the <hi>Poor.</hi>
+               </l>
+               <l>Honour the <hi>King,</hi> and all your <hi>Neighbours</hi> love,</l>
+               <l>And then the <hi>Heav'ns</hi> theſe <hi>Judgments</hi> will remove.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed by <hi>G. Croom,</hi> on the River of <hi>Thames.</hi>
+            </p>
+            <pb facs="tcp:98776:2"/>
+            <!-- PDF PAGE 23 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:98776:3"/>
+            <!-- PDF PAGE 24 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
